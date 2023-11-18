@@ -18,4 +18,25 @@ create predictions of the model
 
 evaluate the model
 
-look at the residuals
+
+# Libraries used
+
+Pandas
+
+Numpy
+
+Matplotlib
+
+Seaborn
+
+Scikit learn
+
+# Visualisations
+
+Pairplot
+
+Implot
+
+JointPlot
+
+Scatter plot
